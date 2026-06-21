@@ -1,4 +1,4 @@
-# 🧠 RAG_APP – Retrieval-Augmented Generation Experiments
+# 🧠 RAGForge – Retrieval-Augmented Generation Experiments
 
 This repository showcases different approaches to **Retrieval-Augmented Generation (RAG)** and includes a simple **Flask application** for serving the models.  
 The goal of this project is to explore various vector search methods, embedding strategies, and model integrations to enhance question-answering systems.
